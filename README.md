@@ -1,2 +1,13 @@
 # DATA-ANALYSIS-OF-NETFLIX-TV-SHOWS-AND-MOVIES-USING-NUMPY-PANDAS-AND-DATA-VISUALISATION.
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
+
+Sources : Netflix Search Engine, IMDB, Kaggle Datasets, https://pandas.pydata.org/docs/user_guide/index.html , https://matplotlib.org/3.3.3/contents.html, https://seaborn.pydata.org/tutorial.html, etc
+
+Netflix- the future of entertainment ?
+a) Netflix started in 1997 as a rent-by-mail DVD service that used a pay-per-rental model. Users ( of which I was one) would browse and order the films they wanted on their website, put in an order, and Netflix would post them to your door. After renters had finished with the DVDs, they would simply post them back. On July 10, 2020, Netflix became the largest entertainment/media company by market capitalization. Following a similiar trajectory to Amazon, the company has grown from a DVD mail order format to being the king of original content. With the impact of Covid-19 on the operation of movie theaters,and more people have to remain indoors, Netflix may soon become the viable alternative. This dataset consists of tv shows and movies available on Netflix as of 2019.
+
+b) This is the project to Data Analysis with Python: The following topics were learned :Python basics, Numerical computing with Numpy, Numpy array operations, Analysing tabular data with Pandas,Data visualisation with Matplotlib and Seaborn.
+
+c) The data is downladed from the the Kaggle.
+
+d) Kaggle : Kaggle is a key repository of datasets used by data scientists to collaborate or participate in data challenges. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset
